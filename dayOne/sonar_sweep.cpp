@@ -2,11 +2,6 @@
 #include <fstream>
 #include <string>
 
-//testtadssadsdasdsadasdsadassda
-
-
-
-//dsads
 void open_file();
 void close_file();
 int get_next_line();

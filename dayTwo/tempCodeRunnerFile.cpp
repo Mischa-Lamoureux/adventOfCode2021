@@ -1,1 +1,0 @@
-std::cout << direction << mag << std::endl;
