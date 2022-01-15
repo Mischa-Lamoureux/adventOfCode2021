@@ -1,1 +1,1 @@
-My submissions for Advent of Code 2021.
+Unfortunately, I didn't discover Advent of Code until there were only two challenges left, so I didn't have much time to complete them. That being said, I did learn an extraordinary amount about different coding methods in C++.
